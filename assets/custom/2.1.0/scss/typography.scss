@@ -1,0 +1,147 @@
+/*------------------------------------------------------------------
+[Typography]
+*/
+
+/* Headings Fonts variables */
+$font-accident-one: 'Arvo', serif;
+$font-accident-two: 'Arvo', serif;
+$font-regular: 'Open Sans', sans-serif;
+
+/* Heading font one */
+.font-accident-one-thin {
+    font-family: $font-accident-two;
+    font-weight: 100;
+}
+.font-accident-one-extralight {
+    font-family: $font-accident-two;
+    font-weight: 200;
+}
+.font-accident-one-light {
+    font-family: $font-accident-two;
+    font-weight: 300;
+}
+.font-accident-one-normal {
+    font-family: $font-accident-two;
+    font-weight: 400;
+}
+.font-accident-one-medium {
+    font-family: $font-accident-two;
+    font-weight: 500;
+}
+.font-accident-one-bold {
+    font-family: $font-accident-two;
+    font-weight: 700;
+}
+.font-accident-one-extrabold {
+    font-family: $font-accident-two;
+    font-weight: 800;
+}
+.font-accident-one-black {
+    font-family: $font-accident-two;
+    font-weight: 900;
+}
+
+/* Heading font two */
+.font-accident-two-thin {
+    font-family: $font-accident-two;
+    font-weight: 100;
+}
+.font-accident-two-extralight {
+    font-family: $font-accident-two;
+    font-weight: 200;
+}
+.font-accident-two-light {
+    font-family: $font-accident-two;
+    font-weight: 300;
+}
+.font-accident-two-normal {
+    font-family: $font-accident-two;
+    font-weight: 400;
+}
+.font-accident-two-medium {
+    font-family: $font-accident-two;
+    font-weight: 500;
+}
+.font-accident-two-bold {
+    font-family: $font-accident-two;
+    font-weight: 700;
+}
+.font-accident-two-extrabold {
+    font-family: $font-accident-two;
+    font-weight: 800;
+}
+.font-accident-two-black {
+    font-family: $font-accident-two;
+    font-weight: 900;
+}
+
+/* Regular font */
+.font-regular-thin {
+    font-family: $font-regular;
+    font-weight: 100;
+    font-style: normal;
+}
+.font-regular-extralight {
+    font-family: $font-regular;
+    font-weight: 200;
+    font-style: normal;
+}
+.font-regular-light {
+    font-family: $font-regular;
+    font-weight: 300;
+    font-style: normal;
+}
+.font-regular-normal {
+    font-family: $font-regular;
+    font-weight: 400;
+    font-style: normal;
+}
+.font-regular-normal-italic {
+    font-family: $font-regular;
+    font-weight: 400;
+    font-style: oblique;
+}
+.font-regular-medium {
+    font-family: $font-regular;
+    font-weight: 600;
+    font-style: normal;
+}
+.font-regular-bold {
+    font-family: $font-regular;
+    font-weight: 700;
+    font-style: normal;
+}
+.font-regular-extrabold {
+    font-family: $font-regular;
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* Headings */
+h1 {  }
+h2 {  font-size: 48px;  }
+h3 {
+    line-height: 1.2em;
+    font-size: 24px;
+}
+h4 {  }
+h5 {  font-size: 15px;  }
+h6 {
+    font-size: 11px;
+    letter-spacing: 3px;
+}
+h4, h5, h6 {
+    a {  color: $hovercolor;  }
+}
+
+.title-light {
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    display: initial;
+}
+
+/* Paragraphs */
+.small {  font-size: 13px;  }
+.extrasmall {  font-size: 12px;  }
+.superheading {  font-size: 48px;  }
+

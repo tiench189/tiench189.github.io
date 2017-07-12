@@ -1,0 +1,177 @@
+/*------------------------------------------------------------------
+[Color Scheme / Colors, textures]
+*/
+
+$color01: #ffffff;
+$color02: #f7f7f7;
+$color03: #efefef;
+$color04: #e7e7e7;
+$color05: #dfdfdf;
+$color06: #d7d7d7;
+$color07: #cfcfcf;
+$color08: #c7c7c7;
+$color09: #bfbfbf;
+$color10: #b7b7b7;
+$color11: #afafaf;
+$color12: #a7a7a7;
+$color13: #9f9f9f;
+$color14: #979797;
+$color15: #8f8f8f;
+$color16: #878787;
+$color17: #7f7f7f;
+$color18: #777777;
+$color19: #6f6f6f;
+$color20: #676767;
+$color21: #5f5f5f;
+$color22: #575757;
+$color23: #4f4f4f;
+$color24: #474747;
+$color25: #3f3f3f;
+$color26: #373737;
+$color27: #2f2f2f;
+$color28: #272727;
+$color29: #1f1f1f;
+$color30: #171717;
+$color31: #0f0f0f;
+$color32: #070707;
+
+$hovercolor: #e74c3c;
+$accentcolor: #007EA7;
+
+$red: #e74c3c;
+$rose: #e798ac;
+$orange: #e67e22;
+$green: #1abc9c;
+$blue: #3498db;
+$darkblue: #1c4a6c;
+$cyan: #9b59b6;
+$yellow: #d9a81d;
+$l-grey: #f2f2f2;
+$grey: #999;
+
+$bg-texture-01: url('../images/backgrounds/dark_fish_skin.png');
+
+.e-bg-light-texture {  background: $bg-texture-01;  }
+
+/* Color Classes */
+.color01 {  color: $color01 ;  }
+.color02 {  color: $color02 ;  }
+.color03 {  color: $color03 ;  }
+.color04 {  color: $color04 ;  }
+.color05 {  color: $color05 ;  }
+.color06 {  color: $color06 ;  }
+.color07 {  color: $color07 ;  }
+.color08 {  color: $color08 ;  }
+.color09 {  color: $color09 ;  }
+.color10 {  color: $color10 ;  }
+.color11 {  color: $color11 ;  }
+.color12 {  color: $color12 ;  }
+.color13 {  color: $color13 ;  }
+.color14 {  color: $color14 ;  }
+.color15 {
+    color: $color15 ;
+    a {
+        color: $color15;
+        &:hover {
+            color: $hovercolor;
+        }
+    }
+}
+.color16            {  color: $color16 ;  }
+.color17            {  color: $color17 ;  }
+.color18            {  color: $color18 ;  }
+.color19            {  color: $color19 ;  }
+.color20            {  color: $color20 ;  }
+.color21            {  color: $color21 ;  }
+.color22            {  color: $color22 ;  }
+.color23            {  color: $color23 ;  }
+.color24            {  color: $color24 ;  }
+.color25            {  color: $color25 ;  }
+.color26            {  color: $color26 ;  }
+.color27            {  color: $color27 ;  }
+.color28            {  color: $color28 ;  }
+.color29            {  color: $color29 ;  }
+.color30            {  color: $color30 ;  }
+.color31            {  color: $color31 ;  }
+.color32            {  color: $color32 ;  }
+.color-red          {  color: $red ;  }
+.color-orange       {  color: $orange ;  }
+.color-green        {  color: $green ;  }
+.color-blue         {  color: $blue ;  }
+.color-darkblue     {  color: $darkblue ;  }
+.color-cyan         {  color: $cyan ;  }
+.color-yellow       {  color: $yellow ;  }
+.color-rose         {  color: $rose ;  }
+.color-darkrose     {  color: darken($rose, 6%) ;  }
+
+
+.red                {  background-color: $red ;  }
+.orange             {  background-color: $orange ;  }
+.green              {  background-color: $green ;  }
+.blue               {  background-color: $blue;  }
+.darkblue           {  background-color: $darkblue ;  }
+.cyan               {  background-color: $cyan ;  }
+.yellow             {  background-color: $yellow ;  }
+.l-grey             {  background-color: $l-grey ;  }
+.grey               {  background-color: $grey ;  }
+
+/* Font/link Colors */
+.fontcolor-regular, .fontcolor-regular a {  color: $color30 ;;  }
+.fontcolor-invert, .fontcolor-invert a {  color: $color01 ;  }
+.fontcolor-medium, .fontcolor-medium a {  color: $color20 ;  }
+.fontcolor-medium-light {
+    color: $color15 ;
+    a {
+        color: $color15 ;
+        &:hover, &:focus {
+            color: $hovercolor ;
+        }
+    }
+}
+.hovercolor, .hovercolor a {  color: $hovercolor ;  }
+.accent-color, .accent-color a {  color: $accentcolor ;  }
+.accent-color a:hover {  color: $hovercolor ;  }
+
+/* Background Color Classes */
+.bg-color01 {  background-color: $color01 ;  }
+.bg-color02 {  background-color: $color02 ;  }
+.bg-color03 {  background-color: $color03 ;  }
+.bg-color04 {  background-color: $color04 ;  }
+.bg-color05 {  background-color: $color05 ;  }
+.bg-color06 {  background-color: $color06 ;  }
+.bg-color07 {  background-color: $color07 ;  }
+.bg-color08 {  background-color: $color08 ;  }
+.bg-color09 {  background-color: $color09 ;  }
+.bg-color10 {  background-color: $color10 ;  }
+.bg-color11 {  background-color: $color11 ;  }
+.bg-color12 {  background-color: $color12 ;  }
+.bg-color13 {  background-color: $color13 ;  }
+.bg-color14 {  background-color: $color14 ;  }
+.bg-color15 {  background-color: $color15 ;  }
+.bg-color16 {  background-color: $color16 ;  }
+.bg-color17 {  background-color: $color17 ;  }
+.bg-color18 {  background-color: $color18 ;  }
+.bg-color19 {  background-color: $color19 ;  }
+.bg-color20 {  background-color: $color20 ;  }
+.bg-color21 {  background-color: $color21 ;  }
+.bg-color22 {  background-color: $color22 ;  }
+.bg-color23 {  background-color: $color23 ;  }
+.bg-color24 {  background-color: $color24 ;  }
+.bg-color25 {  background-color: $color25 ;  }
+.bg-color26 {  background-color: $color26 ;  }
+.bg-color27 {  background-color: $color27 ;  }
+.bg-color28 {  background-color: $color28 ;  }
+.bg-color29 {  background-color: $color29 ;  }
+.bg-color30 {  background-color: $color30 ;  }
+.bg-color31 {  background-color: $color31 ;  }
+.bg-color32 {  background-color: $color32 ;  }
+
+.dark {
+    .title, p {  color: $color01;  }
+    .subtitle {  color: $color15;  }
+}
+
+
+
+
+

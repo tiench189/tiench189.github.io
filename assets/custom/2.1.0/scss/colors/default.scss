@@ -1,0 +1,246 @@
+/* Colors */
+@import "../colors.scss";
+
+/* UI Color Set --------------------------------------------- */
+
+/* Backgrounds */
+.ui-bg-color01 {
+    background-color: $color23;
+}
+
+.ui-bg-color02 {
+    background-color: $color24;
+}
+
+.boxed {
+    background-image: url('../../images/backgrounds/old_moon.png');
+}
+
+/* Blocks */
+.ui-block-color01 {
+    background-color: $color03;
+}
+
+.ui-block-color02 {
+    background-color: $cyan;
+}
+
+.ui-block-color03 {
+    background-color: $blue;
+}
+
+.ui-block-color04 {
+    background-color: $darkblue;
+}
+
+/* Navigation */
+.ui-menu-color01 {
+    background-color: $green;
+}
+
+.ui-menu-color02 {
+    background-color: $blue;
+}
+
+.ui-menu-color03 {
+    background-color: $cyan;
+}
+
+.ui-menu-color04 {
+    background-color: $orange;
+}
+
+.ui-menu-color05 {
+    background-color: $red;
+}
+
+.ui-menu-color06 {
+    background-color: $yellow;
+}
+
+/* Misc Styles */
+.pro-experience h3 {
+    color: $color01;
+}
+
+.circle-skills h3 {
+    color: $color01;
+}
+
+.name-title {
+    color: $color01;
+}
+
+.quote .subtitle {
+    color: $hovercolor;
+}
+
+/* Special Layouts Styles */
+
+/* Mark */
+#mark {
+    .ui-block-color05 {
+        background-color: #4D6892;
+    }
+    .ui-block-color06 {
+        background-color: #6580b0;
+    }
+    .ui-block-color07 {
+        background-color: #CE5374;
+    }
+    footer a.btn {
+        background: #4D6892;
+        &:hover, &:focus {
+            background: $hovercolor;
+        }
+    }
+    .port-filter-light ul li a {
+        background: #f7f7f7;
+    }
+}
+
+/* James */
+#james {
+}
+
+/* Helena */
+#helena {
+}
+
+/* Olivia */
+#olivia {
+}
+
+/* Samuel */
+#samuel {
+}
+
+/* Michael */
+#michael {
+
+    .ui-block-color01 {
+        background-color: $color03;
+    }
+    .ui-block-color02 {
+        background-color: $color03;
+    }
+    .ui-block-color03 {
+        background-color: $color03;
+    }
+    .ui-block-color04 {
+        background-color: $color23;
+    }
+    .ui-block-color05 {
+        background-color: $color24;
+    }
+    .ui-block-color06 {
+        background-color: $color25;
+    }
+
+    .ui-logo-color01 {
+        background-color: $color07;
+    }
+    .ui-logo-color02 {
+        background-color: $color08;
+    }
+    .ui-logo-color03 {
+        background-color: $color09;
+    }
+    .ui-logo-color04 {
+        background-color: $color10;
+    }
+    .ui-logo-color05 {
+        background-color: $color11;
+    }
+    .ui-logo-color06 {
+        background-color: $color12;
+    }
+
+    #details.dark {
+        h2 {
+            color: $hovercolor;
+        }
+        h5 {
+            color: $color20;
+        }
+        p {
+            color: $color25;
+        }
+    }
+    #circle-skills.dark {
+        .title {
+            color: $color25;
+        }
+        h4 {
+            color: $color25;
+        }
+        p {
+            color: $color25;
+        }
+        .progressbar-text {
+            background: $color08;
+            border-color: $color08;
+        }
+    }
+    #price.dark {
+        .title {
+            color: $color25;
+        }
+        h4 {
+            color: $color25;
+        }
+        p {
+            color: $color25;
+        }
+        .price-number {
+            color: $color12;
+        }
+        .pricing ul li {
+            border-top: 1px dashed $color06;
+            &:last-child {
+                border-bottom: 1px dashed $color06;
+            }
+        }
+        .plain {
+            background: $color01;
+            border: 1px solid $color04;
+            color: $color25;
+        }
+        .price-attrs {
+            .price-plan {
+                color: $color17;
+                background: $color02;
+            }
+            .price-descr {
+                color: $color17;
+            }
+        }
+        .proposal {
+            background: $color02;
+            border: 1px solid $color04;
+            color: $hovercolor;
+            ul {
+                li {
+                    border-top: 1px dashed $color06;
+                    &:last-child {
+                        border-bottom: 1px dashed $color06;
+                    }
+                }
+            }
+            .price-number {
+                color: $hovercolor;
+            }
+            .price-plan {
+                color: $hovercolor;
+                background: $color01;
+            }
+            .price-descr {
+                color: $hovercolor;
+            }
+            .price-conclusion {
+                color: $hovercolor;
+            }
+        }
+    }
+
+}

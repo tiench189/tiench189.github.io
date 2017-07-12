@@ -1,0 +1,58 @@
+/* Main Photo */
+.photo-04 {
+    background: url("../../images/layouts/olivia/userpics/userpic00.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 390px;
+}
+
+/* Top Navigation */
+#top-navigation .menuitem a i:before {
+    font-size: 21px;
+}
+
+/* Personal Details-02 */
+.p-grid-item {
+    p {
+        font-size: 11px;
+        letter-spacing: 0;
+    }
+    span {
+        letter-spacing: .6px;
+    }
+}
+
+/* Timeline */
+.timeline-olivia-01,
+.timeline-olivia-02,
+.timeline-olivia-03,
+.timeline-olivia-04 {
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+
+.timeline-olivia-01 {
+    background: url("../../images/layouts/olivia/timeline/01.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.timeline-olivia-02 {
+    background: url("../../images/layouts/olivia/timeline/02.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.timeline-olivia-03 {
+    background: url("../../images/layouts/olivia/timeline/03.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.timeline-olivia-04 {
+    background: url("../../images/layouts/olivia/timeline/04.jpg");
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,549 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 18/01/2017 09:59
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-add-circular-outlined-button:before { content: "\f100"; }
+.flaticon-add-square-outlined-interface-button:before { content: "\f101"; }
+.flaticon-alarm-clock:before { content: "\f102"; }
+.flaticon-aurora-borealis:before { content: "\f103"; }
+.flaticon-avatar36:before { content: "\f104"; }
+.flaticon-avatar40:before { content: "\f105"; }
+.flaticon-avatar43:before { content: "\f106"; }
+.flaticon-avatar52:before { content: "\f107"; }
+.flaticon-avatar61:before { content: "\f108"; }
+.flaticon-avatar64:before { content: "\f109"; }
+.flaticon-avatar65:before { content: "\f10a"; }
+.flaticon-avatar76:before { content: "\f10b"; }
+.flaticon-back-left-arrow-circular-button-outline:before { content: "\f10c"; }
+.flaticon-backpack:before { content: "\f10d"; }
+.flaticon-bag:before { content: "\f10e"; }
+.flaticon-balance:before { content: "\f10f"; }
+.flaticon-bank:before { content: "\f110"; }
+.flaticon-beach:before { content: "\f111"; }
+.flaticon-beach-1:before { content: "\f112"; }
+.flaticon-bear:before { content: "\f113"; }
+.flaticon-beetle:before { content: "\f114"; }
+.flaticon-behance-logo:before { content: "\f115"; }
+.flaticon-bell-ring:before { content: "\f116"; }
+.flaticon-benefit-chart:before { content: "\f117"; }
+.flaticon-big-map-placeholder-outlined-symbol-of-interface:before { content: "\f118"; }
+.flaticon-bonfire:before { content: "\f119"; }
+.flaticon-book-or-newspaper:before { content: "\f11a"; }
+.flaticon-boot:before { content: "\f11b"; }
+.flaticon-boy-broad-smile:before { content: "\f11c"; }
+.flaticon-boy-happy-smile:before { content: "\f11d"; }
+.flaticon-brainstorming:before { content: "\f11e"; }
+.flaticon-briefcase:before { content: "\f11f"; }
+.flaticon-bulb:before { content: "\f120"; }
+.flaticon-bulb-1:before { content: "\f121"; }
+.flaticon-business:before { content: "\f122"; }
+.flaticon-butterfly:before { content: "\f123"; }
+.flaticon-cake28:before { content: "\f124"; }
+.flaticon-calculator:before { content: "\f125"; }
+.flaticon-calendar:before { content: "\f126"; }
+.flaticon-calendar-with-day-5:before { content: "\f127"; }
+.flaticon-canyon:before { content: "\f128"; }
+.flaticon-cascade:before { content: "\f129"; }
+.flaticon-castle:before { content: "\f12a"; }
+.flaticon-cat:before { content: "\f12b"; }
+.flaticon-chat-comment-oval-speech-bubble-with-text-lines:before { content: "\f12c"; }
+.flaticon-city:before { content: "\f12d"; }
+.flaticon-cliff:before { content: "\f12e"; }
+.flaticon-clipboard-verification-outlined-sign:before { content: "\f12f"; }
+.flaticon-clock:before { content: "\f130"; }
+.flaticon-clock-1:before { content: "\f131"; }
+.flaticon-cogwheel:before { content: "\f132"; }
+.flaticon-cold:before { content: "\f133"; }
+.flaticon-compact-disc:before { content: "\f134"; }
+.flaticon-compass:before { content: "\f135"; }
+.flaticon-compass-1:before { content: "\f136"; }
+.flaticon-copy-two-paper-sheets-interface-symbol:before { content: "\f137"; }
+.flaticon-cow:before { content: "\f138"; }
+.flaticon-crab:before { content: "\f139"; }
+.flaticon-crab-1:before { content: "\f13a"; }
+.flaticon-cross-out:before { content: "\f13b"; }
+.flaticon-crustacean:before { content: "\f13c"; }
+.flaticon-cutlery:before { content: "\f13d"; }
+.flaticon-deer:before { content: "\f13e"; }
+.flaticon-delighted-granny:before { content: "\f13f"; }
+.flaticon-desert:before { content: "\f140"; }
+.flaticon-desert-1:before { content: "\f141"; }
+.flaticon-diagram:before { content: "\f142"; }
+.flaticon-download-circular-button:before { content: "\f143"; }
+.flaticon-dress:before { content: "\f144"; }
+.flaticon-drink74:before { content: "\f145"; }
+.flaticon-edit:before { content: "\f146"; }
+.flaticon-edit-tool:before { content: "\f147"; }
+.flaticon-eggs:before { content: "\f148"; }
+.flaticon-email-closed-outlined-back-envelope-interface-symbol:before { content: "\f149"; }
+.flaticon-emails-contacts-book:before { content: "\f14a"; }
+.flaticon-facebook-logo:before { content: "\f14b"; }
+.flaticon-farm:before { content: "\f14c"; }
+.flaticon-farm-1:before { content: "\f14d"; }
+.flaticon-farm-products:before { content: "\f14e"; }
+.flaticon-farm-tools:before { content: "\f14f"; }
+.flaticon-farmer:before { content: "\f150"; }
+.flaticon-fashion:before { content: "\f151"; }
+.flaticon-fashion-1:before { content: "\f152"; }
+.flaticon-fat-boy-smiling:before { content: "\f153"; }
+.flaticon-favourites-star-outline-interface-symbol:before { content: "\f154"; }
+.flaticon-field:before { content: "\f155"; }
+.flaticon-fingerprint:before { content: "\f156"; }
+.flaticon-fish:before { content: "\f157"; }
+.flaticon-flag:before { content: "\f158"; }
+.flaticon-forest:before { content: "\f159"; }
+.flaticon-forest-1:before { content: "\f15a"; }
+.flaticon-forest-2:before { content: "\f15b"; }
+.flaticon-forest-3:before { content: "\f15c"; }
+.flaticon-fruit34:before { content: "\f15d"; }
+.flaticon-full-screen-interface-symbol-of-four-arrows-in-square-button:before { content: "\f15e"; }
+.flaticon-gallery:before { content: "\f15f"; }
+.flaticon-gear:before { content: "\f160"; }
+.flaticon-gift-box-with-a-bow:before { content: "\f161"; }
+.flaticon-girl:before { content: "\f162"; }
+.flaticon-glacier:before { content: "\f163"; }
+.flaticon-googleplus-logo:before { content: "\f164"; }
+.flaticon-graduation-cap:before { content: "\f165"; }
+.flaticon-grains:before { content: "\f166"; }
+.flaticon-guitar:before { content: "\f167"; }
+.flaticon-hail-storm:before { content: "\f168"; }
+.flaticon-harvest:before { content: "\f169"; }
+.flaticon-healthy-food3:before { content: "\f16a"; }
+.flaticon-high-heels:before { content: "\f16b"; }
+.flaticon-hipster-smiling:before { content: "\f16c"; }
+.flaticon-homepage:before { content: "\f16d"; }
+.flaticon-hot-food:before { content: "\f16e"; }
+.flaticon-hot-interface-symbol-of-fire-flames-outline:before { content: "\f16f"; }
+.flaticon-interface:before { content: "\f170"; }
+.flaticon-island:before { content: "\f171"; }
+.flaticon-jungle:before { content: "\f172"; }
+.flaticon-kitchen82:before { content: "\f173"; }
+.flaticon-kitchen84:before { content: "\f174"; }
+.flaticon-knife:before { content: "\f175"; }
+.flaticon-lake:before { content: "\f176"; }
+.flaticon-lake-1:before { content: "\f177"; }
+.flaticon-leaf-outlined-natural-shape:before { content: "\f178"; }
+.flaticon-lighthouse:before { content: "\f179"; }
+.flaticon-line-graph:before { content: "\f17a"; }
+.flaticon-line-graph-1:before { content: "\f17b"; }
+.flaticon-linkedin-logo:before { content: "\f17c"; }
+.flaticon-lion:before { content: "\f17d"; }
+.flaticon-lion-1:before { content: "\f17e"; }
+.flaticon-location:before { content: "\f17f"; }
+.flaticon-location-flag:before { content: "\f180"; }
+.flaticon-login-square-arrow-button-outline:before { content: "\f181"; }
+.flaticon-lunch3:before { content: "\f182"; }
+.flaticon-male-avatar:before { content: "\f183"; }
+.flaticon-map:before { content: "\f184"; }
+.flaticon-maple-leaf:before { content: "\f185"; }
+.flaticon-medal:before { content: "\f186"; }
+.flaticon-megalith:before { content: "\f187"; }
+.flaticon-megaphone:before { content: "\f188"; }
+.flaticon-microscope:before { content: "\f189"; }
+.flaticon-milk-products:before { content: "\f18a"; }
+.flaticon-money:before { content: "\f18b"; }
+.flaticon-monitor:before { content: "\f18c"; }
+.flaticon-moose:before { content: "\f18d"; }
+.flaticon-mountain:before { content: "\f18e"; }
+.flaticon-mountain-1:before { content: "\f18f"; }
+.flaticon-mountains:before { content: "\f190"; }
+.flaticon-mouse:before { content: "\f191"; }
+.flaticon-mouse-1:before { content: "\f192"; }
+.flaticon-mouse-outline:before { content: "\f193"; }
+.flaticon-nine-oclock-on-circular-clock:before { content: "\f194"; }
+.flaticon-note-square-outlined-button-with-a-pencil:before { content: "\f195"; }
+.flaticon-office-briefcase:before { content: "\f196"; }
+.flaticon-open-book:before { content: "\f197"; }
+.flaticon-open-book-1:before { content: "\f198"; }
+.flaticon-orientation:before { content: "\f199"; }
+.flaticon-owl:before { content: "\f19a"; }
+.flaticon-owl-1:before { content: "\f19b"; }
+.flaticon-panda:before { content: "\f19c"; }
+.flaticon-parrot:before { content: "\f19d"; }
+.flaticon-partialy-cloudy:before { content: "\f19e"; }
+.flaticon-peaks:before { content: "\f19f"; }
+.flaticon-pen:before { content: "\f1a0"; }
+.flaticon-pencils:before { content: "\f1a1"; }
+.flaticon-penknife:before { content: "\f1a2"; }
+.flaticon-people:before { content: "\f1a3"; }
+.flaticon-perplexed-man:before { content: "\f1a4"; }
+.flaticon-philosophizing-boy:before { content: "\f1a5"; }
+.flaticon-photo-camera:before { content: "\f1a6"; }
+.flaticon-photo-camera-1:before { content: "\f1a7"; }
+.flaticon-photo-camera-2:before { content: "\f1a8"; }
+.flaticon-pick:before { content: "\f1a9"; }
+.flaticon-pier:before { content: "\f1aa"; }
+.flaticon-pig:before { content: "\f1ab"; }
+.flaticon-pinterest:before { content: "\f1ac"; }
+.flaticon-placeholder:before { content: "\f1ad"; }
+.flaticon-placeholder-1:before { content: "\f1ae"; }
+.flaticon-pointer:before { content: "\f1af"; }
+.flaticon-polar:before { content: "\f1b0"; }
+.flaticon-police-badge:before { content: "\f1b1"; }
+.flaticon-policeman:before { content: "\f1b2"; }
+.flaticon-prairie:before { content: "\f1b3"; }
+.flaticon-protractor:before { content: "\f1b4"; }
+.flaticon-radio:before { content: "\f1b5"; }
+.flaticon-rainy-day:before { content: "\f1b6"; }
+.flaticon-recycling-bin:before { content: "\f1b7"; }
+.flaticon-river:before { content: "\f1b8"; }
+.flaticon-road:before { content: "\f1b9"; }
+.flaticon-rocket:before { content: "\f1ba"; }
+.flaticon-rocket-1:before { content: "\f1bb"; }
+.flaticon-rocket-2:before { content: "\f1bc"; }
+.flaticon-rocket-ship:before { content: "\f1bd"; }
+.flaticon-rye:before { content: "\f1be"; }
+.flaticon-satellite:before { content: "\f1bf"; }
+.flaticon-satellite-dish:before { content: "\f1c0"; }
+.flaticon-saturn:before { content: "\f1c1"; }
+.flaticon-scientific3:before { content: "\f1c2"; }
+.flaticon-sea:before { content: "\f1c3"; }
+.flaticon-search-interface-symbol:before { content: "\f1c4"; }
+.flaticon-sheep:before { content: "\f1c5"; }
+.flaticon-shirt:before { content: "\f1c6"; }
+.flaticon-shirt-1:before { content: "\f1c7"; }
+.flaticon-shopping-cart:before { content: "\f1c8"; }
+.flaticon-shutter:before { content: "\f1c9"; }
+.flaticon-shutter-1:before { content: "\f1ca"; }
+.flaticon-sleet:before { content: "\f1cb"; }
+.flaticon-smiling-baby:before { content: "\f1cc"; }
+.flaticon-smiling-girl:before { content: "\f1cd"; }
+.flaticon-social-media:before { content: "\f1ce"; }
+.flaticon-soft3:before { content: "\f1cf"; }
+.flaticon-solar-system:before { content: "\f1d0"; }
+.flaticon-solar-system-1:before { content: "\f1d1"; }
+.flaticon-solar-system-2:before { content: "\f1d2"; }
+.flaticon-spaceship:before { content: "\f1d3"; }
+.flaticon-speech-bubble:before { content: "\f1d4"; }
+.flaticon-speech-bubble-1:before { content: "\f1d5"; }
+.flaticon-speech-bubble-with-text-lines:before { content: "\f1d6"; }
+.flaticon-speedometer:before { content: "\f1d7"; }
+.flaticon-star:before { content: "\f1d8"; }
+.flaticon-star-1:before { content: "\f1d9"; }
+.flaticon-startup:before { content: "\f1da"; }
+.flaticon-stats:before { content: "\f1db"; }
+.flaticon-strategy:before { content: "\f1dc"; }
+.flaticon-suitcase:before { content: "\f1dd"; }
+.flaticon-suitcase-1:before { content: "\f1de"; }
+.flaticon-sunny-day:before { content: "\f1df"; }
+.flaticon-sunset:before { content: "\f1e0"; }
+.flaticon-target:before { content: "\f1e1"; }
+.flaticon-target-1:before { content: "\f1e2"; }
+.flaticon-target-2:before { content: "\f1e3"; }
+.flaticon-target-3:before { content: "\f1e4"; }
+.flaticon-target-4:before { content: "\f1e5"; }
+.flaticon-technology:before { content: "\f1e6"; }
+.flaticon-television-with-antenna:before { content: "\f1e7"; }
+.flaticon-tiger:before { content: "\f1e8"; }
+.flaticon-tiger-1:before { content: "\f1e9"; }
+.flaticon-tool-outline-of-hotel-reception-or-covered-food-tray:before { content: "\f1ea"; }
+.flaticon-tractor:before { content: "\f1eb"; }
+.flaticon-trailer:before { content: "\f1ec"; }
+.flaticon-transport:before { content: "\f1ed"; }
+.flaticon-travel-bag-outline:before { content: "\f1ee"; }
+.flaticon-tree:before { content: "\f1ef"; }
+.flaticon-trophy:before { content: "\f1f0"; }
+.flaticon-truck:before { content: "\f1f1"; }
+.flaticon-tundra:before { content: "\f1f2"; }
+.flaticon-twitter:before { content: "\f1f3"; }
+.flaticon-user:before { content: "\f1f4"; }
+.flaticon-video-camera:before { content: "\f1f5"; }
+.flaticon-video-camera-1:before { content: "\f1f6"; }
+.flaticon-volcano:before { content: "\f1f7"; }
+.flaticon-weekly-calendar-outline-event-interface-symbol:before { content: "\f1f8"; }
+.flaticon-wetland:before { content: "\f1f9"; }
+.flaticon-whale:before { content: "\f1fa"; }
+.flaticon-wine1:before { content: "\f1fb"; }
+.flaticon-wolf:before { content: "\f1fc"; }
+.flaticon-youtube-logotype:before { content: "\f1fd"; }
+.flaticon-zoom-increasing-symbol:before { content: "\f1fe"; }
+    
+    $font-Flaticon-add-circular-outlined-button: "\f100";
+    $font-Flaticon-add-square-outlined-interface-button: "\f101";
+    $font-Flaticon-alarm-clock: "\f102";
+    $font-Flaticon-aurora-borealis: "\f103";
+    $font-Flaticon-avatar36: "\f104";
+    $font-Flaticon-avatar40: "\f105";
+    $font-Flaticon-avatar43: "\f106";
+    $font-Flaticon-avatar52: "\f107";
+    $font-Flaticon-avatar61: "\f108";
+    $font-Flaticon-avatar64: "\f109";
+    $font-Flaticon-avatar65: "\f10a";
+    $font-Flaticon-avatar76: "\f10b";
+    $font-Flaticon-back-left-arrow-circular-button-outline: "\f10c";
+    $font-Flaticon-backpack: "\f10d";
+    $font-Flaticon-bag: "\f10e";
+    $font-Flaticon-balance: "\f10f";
+    $font-Flaticon-bank: "\f110";
+    $font-Flaticon-beach: "\f111";
+    $font-Flaticon-beach-1: "\f112";
+    $font-Flaticon-bear: "\f113";
+    $font-Flaticon-beetle: "\f114";
+    $font-Flaticon-behance-logo: "\f115";
+    $font-Flaticon-bell-ring: "\f116";
+    $font-Flaticon-benefit-chart: "\f117";
+    $font-Flaticon-big-map-placeholder-outlined-symbol-of-interface: "\f118";
+    $font-Flaticon-bonfire: "\f119";
+    $font-Flaticon-book-or-newspaper: "\f11a";
+    $font-Flaticon-boot: "\f11b";
+    $font-Flaticon-boy-broad-smile: "\f11c";
+    $font-Flaticon-boy-happy-smile: "\f11d";
+    $font-Flaticon-brainstorming: "\f11e";
+    $font-Flaticon-briefcase: "\f11f";
+    $font-Flaticon-bulb: "\f120";
+    $font-Flaticon-bulb-1: "\f121";
+    $font-Flaticon-business: "\f122";
+    $font-Flaticon-butterfly: "\f123";
+    $font-Flaticon-cake28: "\f124";
+    $font-Flaticon-calculator: "\f125";
+    $font-Flaticon-calendar: "\f126";
+    $font-Flaticon-calendar-with-day-5: "\f127";
+    $font-Flaticon-canyon: "\f128";
+    $font-Flaticon-cascade: "\f129";
+    $font-Flaticon-castle: "\f12a";
+    $font-Flaticon-cat: "\f12b";
+    $font-Flaticon-chat-comment-oval-speech-bubble-with-text-lines: "\f12c";
+    $font-Flaticon-city: "\f12d";
+    $font-Flaticon-cliff: "\f12e";
+    $font-Flaticon-clipboard-verification-outlined-sign: "\f12f";
+    $font-Flaticon-clock: "\f130";
+    $font-Flaticon-clock-1: "\f131";
+    $font-Flaticon-cogwheel: "\f132";
+    $font-Flaticon-cold: "\f133";
+    $font-Flaticon-compact-disc: "\f134";
+    $font-Flaticon-compass: "\f135";
+    $font-Flaticon-compass-1: "\f136";
+    $font-Flaticon-copy-two-paper-sheets-interface-symbol: "\f137";
+    $font-Flaticon-cow: "\f138";
+    $font-Flaticon-crab: "\f139";
+    $font-Flaticon-crab-1: "\f13a";
+    $font-Flaticon-cross-out: "\f13b";
+    $font-Flaticon-crustacean: "\f13c";
+    $font-Flaticon-cutlery: "\f13d";
+    $font-Flaticon-deer: "\f13e";
+    $font-Flaticon-delighted-granny: "\f13f";
+    $font-Flaticon-desert: "\f140";
+    $font-Flaticon-desert-1: "\f141";
+    $font-Flaticon-diagram: "\f142";
+    $font-Flaticon-download-circular-button: "\f143";
+    $font-Flaticon-dress: "\f144";
+    $font-Flaticon-drink74: "\f145";
+    $font-Flaticon-edit: "\f146";
+    $font-Flaticon-edit-tool: "\f147";
+    $font-Flaticon-eggs: "\f148";
+    $font-Flaticon-email-closed-outlined-back-envelope-interface-symbol: "\f149";
+    $font-Flaticon-emails-contacts-book: "\f14a";
+    $font-Flaticon-facebook-logo: "\f14b";
+    $font-Flaticon-farm: "\f14c";
+    $font-Flaticon-farm-1: "\f14d";
+    $font-Flaticon-farm-products: "\f14e";
+    $font-Flaticon-farm-tools: "\f14f";
+    $font-Flaticon-farmer: "\f150";
+    $font-Flaticon-fashion: "\f151";
+    $font-Flaticon-fashion-1: "\f152";
+    $font-Flaticon-fat-boy-smiling: "\f153";
+    $font-Flaticon-favourites-star-outline-interface-symbol: "\f154";
+    $font-Flaticon-field: "\f155";
+    $font-Flaticon-fingerprint: "\f156";
+    $font-Flaticon-fish: "\f157";
+    $font-Flaticon-flag: "\f158";
+    $font-Flaticon-forest: "\f159";
+    $font-Flaticon-forest-1: "\f15a";
+    $font-Flaticon-forest-2: "\f15b";
+    $font-Flaticon-forest-3: "\f15c";
+    $font-Flaticon-fruit34: "\f15d";
+    $font-Flaticon-full-screen-interface-symbol-of-four-arrows-in-square-button: "\f15e";
+    $font-Flaticon-gallery: "\f15f";
+    $font-Flaticon-gear: "\f160";
+    $font-Flaticon-gift-box-with-a-bow: "\f161";
+    $font-Flaticon-girl: "\f162";
+    $font-Flaticon-glacier: "\f163";
+    $font-Flaticon-googleplus-logo: "\f164";
+    $font-Flaticon-graduation-cap: "\f165";
+    $font-Flaticon-grains: "\f166";
+    $font-Flaticon-guitar: "\f167";
+    $font-Flaticon-hail-storm: "\f168";
+    $font-Flaticon-harvest: "\f169";
+    $font-Flaticon-healthy-food3: "\f16a";
+    $font-Flaticon-high-heels: "\f16b";
+    $font-Flaticon-hipster-smiling: "\f16c";
+    $font-Flaticon-homepage: "\f16d";
+    $font-Flaticon-hot-food: "\f16e";
+    $font-Flaticon-hot-interface-symbol-of-fire-flames-outline: "\f16f";
+    $font-Flaticon-interface: "\f170";
+    $font-Flaticon-island: "\f171";
+    $font-Flaticon-jungle: "\f172";
+    $font-Flaticon-kitchen82: "\f173";
+    $font-Flaticon-kitchen84: "\f174";
+    $font-Flaticon-knife: "\f175";
+    $font-Flaticon-lake: "\f176";
+    $font-Flaticon-lake-1: "\f177";
+    $font-Flaticon-leaf-outlined-natural-shape: "\f178";
+    $font-Flaticon-lighthouse: "\f179";
+    $font-Flaticon-line-graph: "\f17a";
+    $font-Flaticon-line-graph-1: "\f17b";
+    $font-Flaticon-linkedin-logo: "\f17c";
+    $font-Flaticon-lion: "\f17d";
+    $font-Flaticon-lion-1: "\f17e";
+    $font-Flaticon-location: "\f17f";
+    $font-Flaticon-location-flag: "\f180";
+    $font-Flaticon-login-square-arrow-button-outline: "\f181";
+    $font-Flaticon-lunch3: "\f182";
+    $font-Flaticon-male-avatar: "\f183";
+    $font-Flaticon-map: "\f184";
+    $font-Flaticon-maple-leaf: "\f185";
+    $font-Flaticon-medal: "\f186";
+    $font-Flaticon-megalith: "\f187";
+    $font-Flaticon-megaphone: "\f188";
+    $font-Flaticon-microscope: "\f189";
+    $font-Flaticon-milk-products: "\f18a";
+    $font-Flaticon-money: "\f18b";
+    $font-Flaticon-monitor: "\f18c";
+    $font-Flaticon-moose: "\f18d";
+    $font-Flaticon-mountain: "\f18e";
+    $font-Flaticon-mountain-1: "\f18f";
+    $font-Flaticon-mountains: "\f190";
+    $font-Flaticon-mouse: "\f191";
+    $font-Flaticon-mouse-1: "\f192";
+    $font-Flaticon-mouse-outline: "\f193";
+    $font-Flaticon-nine-oclock-on-circular-clock: "\f194";
+    $font-Flaticon-note-square-outlined-button-with-a-pencil: "\f195";
+    $font-Flaticon-office-briefcase: "\f196";
+    $font-Flaticon-open-book: "\f197";
+    $font-Flaticon-open-book-1: "\f198";
+    $font-Flaticon-orientation: "\f199";
+    $font-Flaticon-owl: "\f19a";
+    $font-Flaticon-owl-1: "\f19b";
+    $font-Flaticon-panda: "\f19c";
+    $font-Flaticon-parrot: "\f19d";
+    $font-Flaticon-partialy-cloudy: "\f19e";
+    $font-Flaticon-peaks: "\f19f";
+    $font-Flaticon-pen: "\f1a0";
+    $font-Flaticon-pencils: "\f1a1";
+    $font-Flaticon-penknife: "\f1a2";
+    $font-Flaticon-people: "\f1a3";
+    $font-Flaticon-perplexed-man: "\f1a4";
+    $font-Flaticon-philosophizing-boy: "\f1a5";
+    $font-Flaticon-photo-camera: "\f1a6";
+    $font-Flaticon-photo-camera-1: "\f1a7";
+    $font-Flaticon-photo-camera-2: "\f1a8";
+    $font-Flaticon-pick: "\f1a9";
+    $font-Flaticon-pier: "\f1aa";
+    $font-Flaticon-pig: "\f1ab";
+    $font-Flaticon-pinterest: "\f1ac";
+    $font-Flaticon-placeholder: "\f1ad";
+    $font-Flaticon-placeholder-1: "\f1ae";
+    $font-Flaticon-pointer: "\f1af";
+    $font-Flaticon-polar: "\f1b0";
+    $font-Flaticon-police-badge: "\f1b1";
+    $font-Flaticon-policeman: "\f1b2";
+    $font-Flaticon-prairie: "\f1b3";
+    $font-Flaticon-protractor: "\f1b4";
+    $font-Flaticon-radio: "\f1b5";
+    $font-Flaticon-rainy-day: "\f1b6";
+    $font-Flaticon-recycling-bin: "\f1b7";
+    $font-Flaticon-river: "\f1b8";
+    $font-Flaticon-road: "\f1b9";
+    $font-Flaticon-rocket: "\f1ba";
+    $font-Flaticon-rocket-1: "\f1bb";
+    $font-Flaticon-rocket-2: "\f1bc";
+    $font-Flaticon-rocket-ship: "\f1bd";
+    $font-Flaticon-rye: "\f1be";
+    $font-Flaticon-satellite: "\f1bf";
+    $font-Flaticon-satellite-dish: "\f1c0";
+    $font-Flaticon-saturn: "\f1c1";
+    $font-Flaticon-scientific3: "\f1c2";
+    $font-Flaticon-sea: "\f1c3";
+    $font-Flaticon-search-interface-symbol: "\f1c4";
+    $font-Flaticon-sheep: "\f1c5";
+    $font-Flaticon-shirt: "\f1c6";
+    $font-Flaticon-shirt-1: "\f1c7";
+    $font-Flaticon-shopping-cart: "\f1c8";
+    $font-Flaticon-shutter: "\f1c9";
+    $font-Flaticon-shutter-1: "\f1ca";
+    $font-Flaticon-sleet: "\f1cb";
+    $font-Flaticon-smiling-baby: "\f1cc";
+    $font-Flaticon-smiling-girl: "\f1cd";
+    $font-Flaticon-social-media: "\f1ce";
+    $font-Flaticon-soft3: "\f1cf";
+    $font-Flaticon-solar-system: "\f1d0";
+    $font-Flaticon-solar-system-1: "\f1d1";
+    $font-Flaticon-solar-system-2: "\f1d2";
+    $font-Flaticon-spaceship: "\f1d3";
+    $font-Flaticon-speech-bubble: "\f1d4";
+    $font-Flaticon-speech-bubble-1: "\f1d5";
+    $font-Flaticon-speech-bubble-with-text-lines: "\f1d6";
+    $font-Flaticon-speedometer: "\f1d7";
+    $font-Flaticon-star: "\f1d8";
+    $font-Flaticon-star-1: "\f1d9";
+    $font-Flaticon-startup: "\f1da";
+    $font-Flaticon-stats: "\f1db";
+    $font-Flaticon-strategy: "\f1dc";
+    $font-Flaticon-suitcase: "\f1dd";
+    $font-Flaticon-suitcase-1: "\f1de";
+    $font-Flaticon-sunny-day: "\f1df";
+    $font-Flaticon-sunset: "\f1e0";
+    $font-Flaticon-target: "\f1e1";
+    $font-Flaticon-target-1: "\f1e2";
+    $font-Flaticon-target-2: "\f1e3";
+    $font-Flaticon-target-3: "\f1e4";
+    $font-Flaticon-target-4: "\f1e5";
+    $font-Flaticon-technology: "\f1e6";
+    $font-Flaticon-television-with-antenna: "\f1e7";
+    $font-Flaticon-tiger: "\f1e8";
+    $font-Flaticon-tiger-1: "\f1e9";
+    $font-Flaticon-tool-outline-of-hotel-reception-or-covered-food-tray: "\f1ea";
+    $font-Flaticon-tractor: "\f1eb";
+    $font-Flaticon-trailer: "\f1ec";
+    $font-Flaticon-transport: "\f1ed";
+    $font-Flaticon-travel-bag-outline: "\f1ee";
+    $font-Flaticon-tree: "\f1ef";
+    $font-Flaticon-trophy: "\f1f0";
+    $font-Flaticon-truck: "\f1f1";
+    $font-Flaticon-tundra: "\f1f2";
+    $font-Flaticon-twitter: "\f1f3";
+    $font-Flaticon-user: "\f1f4";
+    $font-Flaticon-video-camera: "\f1f5";
+    $font-Flaticon-video-camera-1: "\f1f6";
+    $font-Flaticon-volcano: "\f1f7";
+    $font-Flaticon-weekly-calendar-outline-event-interface-symbol: "\f1f8";
+    $font-Flaticon-wetland: "\f1f9";
+    $font-Flaticon-whale: "\f1fa";
+    $font-Flaticon-wine1: "\f1fb";
+    $font-Flaticon-wolf: "\f1fc";
+    $font-Flaticon-youtube-logotype: "\f1fd";
+    $font-Flaticon-zoom-increasing-symbol: "\f1fe";
